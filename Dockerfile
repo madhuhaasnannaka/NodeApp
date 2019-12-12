@@ -1,4 +1,3 @@
-ENV http_proxy http://10.9.53.7:8080
 # use a node base image
 FROM node:7-onbuild
 
